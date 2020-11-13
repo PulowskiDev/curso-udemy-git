@@ -40,6 +40,7 @@ Underline 2
 
 # Code Snippets
 - (https://highlightjs.org/)
+- Se hace con las comillas invertidas x3 al inicio y al final
 - Codigo en JSON
 ```JSON
 [
@@ -87,4 +88,11 @@ export  $initHighlight;
 | Maxi | Burgos | Documento1 |
 | Alberto | Valencia | Documento23 |
 
+
+# Citas
+Esto es un texto referente a una cita que pondremos debajo, para poder escribir debajo hay que dejar una line en blanco para que no se junte con la cita
+> Esto es una cita.
+
+Esto es otro texto que no se relaciona con la cita anterior
+>Esto es otra cita.
 

@@ -82,4 +82,9 @@ export  $initHighlight;
 ```
 
 # Tablas
+| Nombre | Apellido | Documento |
+| ------ | -------- | --------- |
+| Maxi | Burgos | Documento1 |
+| Alberto | Valencia | Documento23 |
+
 

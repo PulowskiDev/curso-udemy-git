@@ -107,3 +107,13 @@ Esto es otro texto dividido dividido por asteriscos
 Esto es otro texto dividido dividido por asteriscos
 
 ---
+
+
+# Saltos de linea
+Esto es el parrafo 1.
+
+Esto es el parrafo 2.
+
+Esto es el parrafo 3.
+
+Para hacer saltos de linea tenemos que meter doble enter para que lo reconozca.
